@@ -1,0 +1,13 @@
+{
+  "name": "jexcel/phpexport",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "autoload": {
+      "psr-4": {
+          "app\\": "src/"
+      }
+  },
+  "require": {
+    "phpoffice/phpspreadsheet": "dev-master"
+  }
+}
